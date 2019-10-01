@@ -1,0 +1,5 @@
+import pyautogui as pi
+pi.moveTo(177,886,0.30)
+pi.click()
+print("Ask Something......")
+
