@@ -1,0 +1,7 @@
+import pyautogui as pi
+pi.moveTo(13,895,0.35)
+pi.click()
+pi.moveTo(29,828,0.35)
+pi.click()
+pi.moveTo(37,745,0.35)
+pi.click()
